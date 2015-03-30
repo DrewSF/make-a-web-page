@@ -1,0 +1,49 @@
+body{
+  background-color: lightgreen;
+  font-family: Calibri
+}
+.italic{
+  font-style: italic
+}
+
+.bold{
+  font-weight: bold
+}
+
+h1{
+  text-align: center;
+  color: grey;
+  font-size: 40px
+}
+
+h2{
+  text-align: center;
+  color: white;
+  margin: 10px;
+  font-size: 28px
+}
+
+.concept-title{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: purple
+}
+
+.lesson{
+  background-color: grey;
+  border-radius: 25px;
+  padding: 5px
+}
+
+.concept{
+  background-color: lightgrey;
+  margin: 10px;
+  border-radius: 25px;
+  padding: 5px
+}
+
+.concept-description{
+  font-weight: lighter;
+  margin: 15px
+}
